@@ -6,8 +6,7 @@ class ForgotButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextButton(
-      onPressed: () => null,
-      child: Text('Forgot password?'),
+      onPressed: () {},
       style: ButtonStyle(
         shape: WidgetStateProperty.all(
           RoundedRectangleBorder(
@@ -15,6 +14,7 @@ class ForgotButton extends StatelessWidget {
           ),
         ),
       ),
+      child: Text('Forgot password?'),
     );
   }
 }

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:power_watch/constant/color.dart';
 
 class DropDownLocation extends StatefulWidget {
-  new({super.key});
+  const new({super.key});
 
   @override
   State<DropDownLocation> createState() => _DropDownLocationState();
@@ -14,15 +14,18 @@ class _DropDownLocationState extends State<DropDownLocation> {
   @override
   Widget build(BuildContext context) {
     return DropdownMenu(
-      // TODO add icon
-      textStyle: TextStyle(color: AppColors.background,fontWeight: FontWeight.bold),
+      leadingIcon: Icon(Icons.pin_drop,color: Colors.red,),  //Ts doesnt work.. PR Fix on bottom
+      textStyle: TextStyle(
+        color: AppColors.background,
+        fontWeight: FontWeight.bold,
+      ),
       decorationBuilder: (context, controller) =>
-          InputDecoration(fillColor: AppColors.whiteText, filled: true,),
+          InputDecoration(fillColor: AppColors.whiteText, filled: true,prefixIcon: Icon(Icons.pin_drop_outlined)), //https://github.com/flutter/flutter/pull/185445
       enableFilter: true,
       enableSearch: true,
       onSelected: (value) => this.value = value,
       dropdownMenuEntries: <DropdownMenuEntry>[
-        DropdownMenuEntry(value: 'Apokon', label: 'Apokon'),
+        DropdownMenuEntry(value: 'Apokon', label: 'Apokon',),
         DropdownMenuEntry(value: 'Magugpo East', label: 'Magugpo East'),
         DropdownMenuEntry(value: 'Quambugan', label: 'Quambugan'),
         DropdownMenuEntry(value: 'Magugpo South', label: 'Magugpo South'),
@@ -30,7 +33,7 @@ class _DropDownLocationState extends State<DropDownLocation> {
     );
   }
 
-  TextStyle styler (){
+  TextStyle styler() {
     return TextStyle(color: Colors.red);
   }
 }
