@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.9"
+  curved_app_bar:
+    dependency: "direct main"
+    description:
+      name: curved_app_bar
+      sha256: "8c15c1c08ef73be50a1cb06537d8d11a743b455b9dd52a6255436ad7cb664573"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.8"
   fake_async:
     dependency: transitive
     description:

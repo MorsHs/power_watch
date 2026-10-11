@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:power_watch/constant/color.dart';
 import 'package:power_watch/features/LandingPage/widgets/TextPicker.dart';
+import 'package:curved_app_bar/curved_app_bar.dart';
 
 class LandingPage extends StatelessWidget {
   const LandingPage({super.key});
@@ -8,17 +9,31 @@ class LandingPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
+      body: Text('data'),
+      appBar: CurvedAppBar(
+        actions: [
+          IconButton(
+            onPressed: () => null,
+            icon: Badge(
+              label: Text('9'),
+              child: Icon(
+                Icons.notifications,
+                color: AppColors.whiteText,
+                size: 29,
+              ),
+            ),
+          ),
+        ],
+        height: MediaQuery.of(context).size.height * 0.07,
+        shape: CurvedAppBarShape.invertedRounded,
+        curveRadius: 25,
         bottom: PreferredSize(
           preferredSize: Size.fromHeight(
-            MediaQuery.of(context).size.height * 0.20,
+            MediaQuery.of(context).size.height * 0.10,
           ),
-          child: Column(children: [DropDownLocation(), SizedBox(height: 15)]),
+          child: Column(children: [DropDownLocation()]),
         ),
         backgroundColor: AppColors.background,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.only(bottomLeft: Radius.circular(25)),
-        ),
         automaticallyImplyLeading: false,
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
