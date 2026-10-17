@@ -33,7 +33,9 @@ class _DropDownLocationState extends State<DropDownLocation> {
         enableSearch: true,
         menuStyle: MenuStyle(
         ),
-        onSelected: (value) => this.value = value,
+        onSelected: (value) => setState(() {
+           this.value = value;
+        }),       
         dropdownMenuEntries: <DropdownMenuEntry>[
           DropdownMenuEntry(value: 'Apokon', label: 'Apokon'),
           DropdownMenuEntry(value: 'Magugpo East', label: 'Magugpo East'),

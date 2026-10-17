@@ -15,7 +15,7 @@ class Cardannoucement extends StatelessWidget {
           children: [
             Row(
               spacing: 20,
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Container(
                   padding: EdgeInsets.all(12),
@@ -37,9 +37,18 @@ class Cardannoucement extends StatelessWidget {
                           fontSize: 18,
                         ),
                       ),
-                      Text('Partial outage in your area',style: TextStyle(fontSize: 15),),
-                      Text('Apokon, Tagum City',style: TextStyle(fontSize: 15)),
-                      Text('Sep 30, 2024 - 8:00 AM - 5:00 PM',style: TextStyle(fontSize: 15))
+                      Text(
+                        'Partial outage in your area',
+                        style: TextStyle(fontSize: 15),
+                      ),
+                      Text(
+                        'Apokon, Tagum City',
+                        style: TextStyle(fontSize: 15),
+                      ),
+                      Text(
+                        'Sep 30, 2024 - 8:00 AM - 5:00 PM',
+                        style: TextStyle(fontSize: 15),
+                      ),
                       //insert mga caption sleep well sako
                     ],
                   ),

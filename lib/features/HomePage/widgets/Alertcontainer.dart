@@ -42,21 +42,25 @@ class Alertcard extends StatelessWidget {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text(
-                        this.title,
-                        style: TextStyle(
-                          fontWeight: FontWeight.bold,
-                          fontSize: 17,
+                      FittedBox(
+                        child: Text(
+                          this.title,
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 17,
+                          ),
                         ),
                       ),
-                      Text(
-                        this.location,
-                        style: TextStyle(
-                          fontSize: 15,
-                          fontWeight: FontWeight.bold,
+                      FittedBox(
+                        child: Text(
+                          this.location,
+                          style: TextStyle(
+                            fontSize: 15,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
                       ),
-                      Text(this.date),
+                      FittedBox(child: Text(this.date)),
                     ],
                   ),
                 ),
