@@ -1,0 +1,3646 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-02T16:04:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/751206451",
+      "properties": {
+        "@id": "way/751206451",
+        "access": "yes",
+        "building": "roof",
+        "layer": "1",
+        "leisure": "sports_hall",
+        "name": "Purok Banana Covered Court",
+        "operator:type": "government",
+        "pitch:surface": "concrete",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.7666853,
+              7.4602516
+            ],
+            [
+              125.7668931,
+              7.4601713
+            ],
+            [
+              125.7669533,
+              7.4603242
+            ],
+            [
+              125.7667454,
+              7.4604046
+            ],
+            [
+              125.7666853,
+              7.4602516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31614832",
+      "properties": {
+        "@id": "way/31614832",
+        "highway": "residential",
+        "name": "Purok Bayanihan",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.8080225,
+            7.4412034
+          ],
+          [
+            125.8077215,
+            7.4424043
+          ],
+          [
+            125.8076975,
+            7.4424633
+          ],
+          [
+            125.8076493,
+            7.4425411
+          ],
+          [
+            125.8075882,
+            7.4426169
+          ],
+          [
+            125.8075318,
+            7.442672
+          ],
+          [
+            125.8067348,
+            7.4433204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105735854",
+      "properties": {
+        "@id": "way/105735854",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Purok Talisay Street",
+        "noname": "yes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.8103527,
+            7.4571415
+          ],
+          [
+            125.8103013,
+            7.4574633
+          ],
+          [
+            125.810268,
+            7.457665
+          ],
+          [
+            125.8102464,
+            7.4577731
+          ],
+          [
+            125.8102069,
+            7.4579334
+          ],
+          [
+            125.8100297,
+            7.4585078
+          ],
+          [
+            125.8098285,
+            7.45911
+          ],
+          [
+            125.8097572,
+            7.4593175
+          ],
+          [
+            125.8096277,
+            7.4596598
+          ],
+          [
+            125.8094913,
+            7.4599885
+          ],
+          [
+            125.8094593,
+            7.4600977
+          ],
+          [
+            125.8094523,
+            7.4601675
+          ],
+          [
+            125.8094517,
+            7.4602484
+          ],
+          [
+            125.8094525,
+            7.4603447
+          ],
+          [
+            125.8094714,
+            7.4607353
+          ],
+          [
+            125.8095159,
+            7.4613961
+          ],
+          [
+            125.8095354,
+            7.4619485
+          ],
+          [
+            125.8095424,
+            7.462148
+          ],
+          [
+            125.8095495,
+            7.4626896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126985288",
+      "properties": {
+        "@id": "way/126985288",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Purok Santol",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.809639,
+            7.4627136
+          ],
+          [
+            125.8096354,
+            7.4629411
+          ],
+          [
+            125.8096349,
+            7.4631029
+          ],
+          [
+            125.8096388,
+            7.4632304
+          ],
+          [
+            125.8096502,
+            7.4633534
+          ],
+          [
+            125.8096763,
+            7.4635349
+          ],
+          [
+            125.8097031,
+            7.4636774
+          ],
+          [
+            125.8097246,
+            7.4637362
+          ],
+          [
+            125.8097575,
+            7.4637982
+          ],
+          [
+            125.8098128,
+            7.4638824
+          ],
+          [
+            125.8102032,
+            7.4643358
+          ],
+          [
+            125.8102498,
+            7.4643919
+          ],
+          [
+            125.810497,
+            7.4646678
+          ],
+          [
+            125.810556,
+            7.4647449
+          ],
+          [
+            125.8106051,
+            7.4648243
+          ],
+          [
+            125.8107278,
+            7.4650482
+          ],
+          [
+            125.8109535,
+            7.4655196
+          ],
+          [
+            125.8110777,
+            7.4657884
+          ],
+          [
+            125.8111576,
+            7.4659737
+          ],
+          [
+            125.8112066,
+            7.4660808
+          ],
+          [
+            125.8113554,
+            7.4663939
+          ],
+          [
+            125.8114386,
+            7.4665574
+          ],
+          [
+            125.811462,
+            7.466589
+          ],
+          [
+            125.8114973,
+            7.4666119
+          ],
+          [
+            125.811543,
+            7.4666263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747271335",
+      "properties": {
+        "@id": "node/1747271335",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Waling-Waling",
+        "official_name": "Purok Waling-Waling",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8062781,
+          7.4540037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858714674",
+      "properties": {
+        "@id": "node/1858714674",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Anahaw",
+        "official_name": "Purok Anahaw",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8078293,
+          7.4190034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858740215",
+      "properties": {
+        "@id": "node/1858740215",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Purok 5-A",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8276317,
+          7.4272493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1909958838",
+      "properties": {
+        "@id": "node/1909958838",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Pag-Asa",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8083826,
+          7.4585201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1914143876",
+      "properties": {
+        "@id": "node/1914143876",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Ilocandia",
+        "official_name": "Purok Ilocandia",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7962043,
+          7.4656071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7884812539",
+      "properties": {
+        "@id": "node/7884812539",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 4;Purok Santol;Sitio Santol",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Santol",
+        "official_name": "Purok 4 Santol",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8114518,
+          7.4659598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8498502584",
+      "properties": {
+        "@id": "node/8498502584",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Busaon",
+        "is_in:city": "Tagum",
+        "name": "Purok 6",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7450311,
+          7.3289271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8778193317",
+      "properties": {
+        "@id": "node/8778193317",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Aquarius",
+        "official_name": "Purok Aquarius",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8012764,
+          7.4360411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8778193417",
+      "properties": {
+        "@id": "node/8778193417",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Libra",
+        "official_name": "Purok Libra",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8020893,
+          7.4356076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8778193517",
+      "properties": {
+        "@id": "node/8778193517",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Pagmamahal",
+        "official_name": "Purok Pagmamahal",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8027604,
+          7.4359299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9008894959",
+      "properties": {
+        "@id": "node/9008894959",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Mangga",
+        "official_name": "Purok Mangga",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7548064,
+          7.3799833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9513103864",
+      "properties": {
+        "@id": "node/9513103864",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Kalamboan",
+        "official_name": "Purok Kalamboan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8177109,
+          7.466205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10117627925",
+      "properties": {
+        "@id": "node/10117627925",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Abaca",
+        "official_name": "Purok Abaca",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7787156,
+          7.4760782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10654567105",
+      "properties": {
+        "@id": "node/10654567105",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Everlasting",
+        "official_name": "Purok Everlasting",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7599603,
+          7.3845424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10662612258",
+      "properties": {
+        "@id": "node/10662612258",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Pandapan",
+        "is_in:city": "Tagum",
+        "name": "Lanzones",
+        "official_name": "Purok Lanzones",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8536203,
+          7.4809854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10711616742",
+      "properties": {
+        "@id": "node/10711616742",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:city": "Tagum",
+        "name": "Kahayag",
+        "official_name": "Purok Kahayag",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8138351,
+          7.4208162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10843053418",
+      "properties": {
+        "@id": "node/10843053418",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Pagsabangan",
+        "is_in:city": "Tagum",
+        "name": "Alvarida",
+        "official_name": "Purok Alvarida",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7564265,
+          7.4922205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10843053419",
+      "properties": {
+        "@id": "node/10843053419",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Pagsabangan",
+        "is_in:city": "Tagum",
+        "name": "Pagkakaisa",
+        "official_name": "Purok Pagkakaisa",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7519042,
+          7.4800434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10843132863",
+      "properties": {
+        "@id": "node/10843132863",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Banana",
+        "official_name": "Purok Banana",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7666137,
+          7.4603963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10843132864",
+      "properties": {
+        "@id": "node/10843132864",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Magtalisay",
+        "official_name": "Purok Magtalisay",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7659885,
+          7.4721103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10844961757",
+      "properties": {
+        "@id": "node/10844961757",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Busaon",
+        "is_in:city": "Tagum",
+        "name": "Purok 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7558632,
+          7.3554082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10931525231",
+      "properties": {
+        "@id": "node/10931525231",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "White Dove",
+        "official_name": "Purok White Dove",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7943824,
+          7.4343288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10963780971",
+      "properties": {
+        "@id": "node/10963780971",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Pioneer",
+        "official_name": "Purok Pioneer",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8000097,
+          7.4266397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11000918703",
+      "properties": {
+        "@id": "node/11000918703",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Bunga",
+        "official_name": "Purok Bunga",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7896943,
+          7.4335046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11000948298",
+      "properties": {
+        "@id": "node/11000948298",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Buli",
+        "official_name": "Purok Buli",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7886265,
+          7.435052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11036674536",
+      "properties": {
+        "@id": "node/11036674536",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Purok 5",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8129503,
+          7.4814986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11036675293",
+      "properties": {
+        "@id": "node/11036675293",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "New Balamban",
+        "is_in:city": "Tagum",
+        "name": "Purok 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8500166,
+          7.4922238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11036756616",
+      "properties": {
+        "@id": "node/11036756616",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Maharlika",
+        "official_name": "Purok Maharlika",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8023465,
+          7.4893881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11036822726",
+      "properties": {
+        "@id": "node/11036822726",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "San Antonio",
+        "official_name": "Purok San Antonio",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7943744,
+          7.5077919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11037118226",
+      "properties": {
+        "@id": "node/11037118226",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 9;Purok Malinawon",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Malinawon",
+        "official_name": "Purok 9 Malinawon",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8159179,
+          7.4690026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11037159447",
+      "properties": {
+        "@id": "node/11037159447",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Talisay",
+        "official_name": "Purok Talisay",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8084568,
+          7.461827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11037220677",
+      "properties": {
+        "@id": "node/11037220677",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magdum",
+        "is_in:city": "Tagum",
+        "name": "Purok 5-A",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8296103,
+          7.4656027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11039944915",
+      "properties": {
+        "@id": "node/11039944915",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Bayanihan",
+        "official_name": "Purok Bayanihan",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8079329,
+          7.4427678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11039968642",
+      "properties": {
+        "@id": "node/11039968642",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Mencidor Village",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "name": "Mencidor",
+        "official_name": "Purok Mencidor",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8165696,
+          7.4508184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11048929162",
+      "properties": {
+        "@id": "node/11048929162",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 3;Purok Dagohoy",
+        "is_in:barangay": "Canocotan",
+        "is_in:city": "Tagum",
+        "name": "Dagohoy",
+        "official_name": "Purok 3 Dagohoy",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7830885,
+          7.4164076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11048929163",
+      "properties": {
+        "@id": "node/11048929163",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 4-A;Purok Lapu-Lapu",
+        "is_in:barangay": "Canocotan",
+        "is_in:city": "Tagum",
+        "name": "Lapu-Lapu",
+        "official_name": "Purok 4-A Lapu-Lapu",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7785331,
+          7.4088396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11048929164",
+      "properties": {
+        "@id": "node/11048929164",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 1-A;Purok Rizal",
+        "is_in:barangay": "Canocotan",
+        "is_in:city": "Tagum",
+        "name": "Rizal",
+        "official_name": "Purok 1-A Rizal",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7818276,
+          7.4076099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11049464996",
+      "properties": {
+        "@id": "node/11049464996",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Caimito",
+        "official_name": "Purok Caimito",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7925551,
+          7.4655868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11049486380",
+      "properties": {
+        "@id": "node/11049486380",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Caimito",
+        "official_name": "Purok Caimito",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8113121,
+          7.4441605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11049835908",
+      "properties": {
+        "@id": "node/11049835908",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 6;Purok Agan",
+        "is_in:barangay": "Magdum",
+        "is_in:city": "Tagum",
+        "name": "Agan",
+        "official_name": "Purok 6 Agan",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8234035,
+          7.4646587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11049840724",
+      "properties": {
+        "@id": "node/11049840724",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Bulak 1",
+        "official_name": "Purok Bulak 1",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.818393,
+          7.4609617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11049891211",
+      "properties": {
+        "@id": "node/11049891211",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Sampaguita",
+        "official_name": "Purok Sampaguita",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8089039,
+          7.45522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11050461987",
+      "properties": {
+        "@id": "node/11050461987",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Rambutan",
+        "official_name": "Purok Rambutan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8137656,
+          7.449952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11051625728",
+      "properties": {
+        "@id": "node/11051625728",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Dela Cruz",
+        "official_name": "Purok Dela Cruz",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7949993,
+          7.4618422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11051682801",
+      "properties": {
+        "@id": "node/11051682801",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Uraya",
+        "official_name": "Purok Uraya",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7730904,
+          7.460431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054349155",
+      "properties": {
+        "@id": "node/11054349155",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Purok 1-E",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8208951,
+          7.4383286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054363702",
+      "properties": {
+        "@id": "node/11054363702",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 3;Purok Rattan",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Rattan",
+        "official_name": "Purok 3 Rattan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8247236,
+          7.4313617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054370045",
+      "properties": {
+        "@id": "node/11054370045",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 2;Purok Durian",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Durian",
+        "official_name": "Purok 2 Durian",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8239522,
+          7.4331046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054531121",
+      "properties": {
+        "@id": "node/11054531121",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Purok 4",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8290021,
+          7.4243722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054535731",
+      "properties": {
+        "@id": "node/11054535731",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "name": "Tipaz",
+        "official_name": "Purok Tipaz",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8210563,
+          7.4540303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11054765804",
+      "properties": {
+        "@id": "node/11054765804",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 5-A;Purok Villa Consuelo",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Villa Consuelo",
+        "official_name": "Purok 6-A Villa Consuelo",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8396657,
+          7.4061117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11055292076",
+      "properties": {
+        "@id": "node/11055292076",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Cogon",
+        "official_name": "Purok Cogon",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7869532,
+          7.4297643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11055478381",
+      "properties": {
+        "@id": "node/11055478381",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Rambutan",
+        "official_name": "Purok Rambutan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7934214,
+          7.432697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11057500661",
+      "properties": {
+        "@id": "node/11057500661",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Cafe",
+        "official_name": "Purok Cafe",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7978599,
+          7.4278067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11057511534",
+      "properties": {
+        "@id": "node/11057511534",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo South",
+        "is_in:city": "Tagum",
+        "name": "Malinawon",
+        "official_name": "Purok Malinawon",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8002564,
+          7.4511919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11057523853",
+      "properties": {
+        "@id": "node/11057523853",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Dahlia",
+        "official_name": "Purok Dahlia",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8093659,
+          7.4297497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11064269950",
+      "properties": {
+        "@id": "node/11064269950",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Garciaville Subdivision",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Garciaville",
+        "official_name": "Purok Garciaville",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7944005,
+          7.4521268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11064450646",
+      "properties": {
+        "@id": "node/11064450646",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Cacacho Subdivision",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Villa Cacacho",
+        "official_name": "Purok Cacacho",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7950315,
+          7.4576998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11068545940",
+      "properties": {
+        "@id": "node/11068545940",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo South",
+        "is_in:city": "Tagum",
+        "name": "Villa Rosal",
+        "official_name": "Purok Villa Rosal",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.797432,
+          7.4489612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11073100632",
+      "properties": {
+        "@id": "node/11073100632",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Bayanihan",
+        "official_name": "Purok Bayanihan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7987234,
+          7.463935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019892",
+      "properties": {
+        "@id": "node/11104019892",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Malinawon 1",
+        "official_name": "Purok Malinawon 1",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8139994,
+          7.4461316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019893",
+      "properties": {
+        "@id": "node/11104019893",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Nangka",
+        "official_name": "Purok Nangka",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8124724,
+          7.4487349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019894",
+      "properties": {
+        "@id": "node/11104019894",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Talisay",
+        "official_name": "Purok Talisay",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8173976,
+          7.4496009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019895",
+      "properties": {
+        "@id": "node/11104019895",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "name": "Barabad",
+        "official_name": "Purok Barabad",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8158714,
+          7.4432394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019896",
+      "properties": {
+        "@id": "node/11104019896",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Malinawon 2",
+        "official_name": "Purok Malinawon 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8162762,
+          7.446435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11104019897",
+      "properties": {
+        "@id": "node/11104019897",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Narra",
+        "official_name": "Purok Narra",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8142981,
+          7.4480291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11108932950",
+      "properties": {
+        "@id": "node/11108932950",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Cherry Blossom",
+        "official_name": "Purok Cherry Blossom",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8146518,
+          7.4491947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115004601",
+      "properties": {
+        "@id": "node/11115004601",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Pag-Asa",
+        "official_name": "Purok Pag-Asa",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8089146,
+          7.4358608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115004602",
+      "properties": {
+        "@id": "node/11115004602",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Capagngan",
+        "official_name": "Purok Capagngan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8096549,
+          7.4323327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115004603",
+      "properties": {
+        "@id": "node/11115004603",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Mangga",
+        "name": "Sampaguita 1",
+        "official_name": "Purok Sampaguita 1",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8098131,
+          7.4365895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115004604",
+      "properties": {
+        "@id": "node/11115004604",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Waling-Waling",
+        "official_name": "Purok Waling-Waling",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8098105,
+          7.4394779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115011605",
+      "properties": {
+        "@id": "node/11115011605",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Everlasting",
+        "official_name": "Purok Everlasting",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8036695,
+          7.4379127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11209457285",
+      "properties": {
+        "@id": "node/11209457285",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Apokon",
+        "is_in:city": "Tagum",
+        "name": "Purok 3-B",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8181197,
+          7.4241842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11363886146",
+      "properties": {
+        "@id": "node/11363886146",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Miguel",
+        "is_in:city": "Tagum",
+        "name": "Purok 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.791904,
+          7.4465032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11363905633",
+      "properties": {
+        "@id": "node/11363905633",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:city": "Tagum",
+        "name": "Purok 2-A",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7914856,
+          7.4405524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569818",
+      "properties": {
+        "@id": "node/11365569818",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Timog",
+        "official_name": "Purok Timog",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8053312,
+          7.4199292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569819",
+      "properties": {
+        "@id": "node/11365569819",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Durian",
+        "official_name": "Purok Durian",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8072154,
+          7.4246063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569820",
+      "properties": {
+        "@id": "node/11365569820",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Saging",
+        "official_name": "Purok Saging",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7988295,
+          7.4345868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569821",
+      "properties": {
+        "@id": "node/11365569821",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Cattleya",
+        "official_name": "Purok Cattleya",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7972711,
+          7.4321479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569822",
+      "properties": {
+        "@id": "node/11365569822",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Narra",
+        "official_name": "Purok Narra",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7987007,
+          7.4302967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569823",
+      "properties": {
+        "@id": "node/11365569823",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Talisay 2",
+        "official_name": "Purok Talisay 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8023472,
+          7.4299005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569824",
+      "properties": {
+        "@id": "node/11365569824",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Palmera",
+        "official_name": "Purok Palmera",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8006507,
+          7.4340815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569825",
+      "properties": {
+        "@id": "node/11365569825",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Gabayan 2",
+        "official_name": "Purok Gabayan 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8169639,
+          7.43666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569826",
+      "properties": {
+        "@id": "node/11365569826",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Gabayan 1",
+        "official_name": "Purok Gabayan 1",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8149107,
+          7.4366414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569828",
+      "properties": {
+        "@id": "node/11365569828",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Mangga",
+        "name": "Ilang-Ilang",
+        "official_name": "Purok Ilang-Ilang",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8137144,
+          7.4362564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569829",
+      "properties": {
+        "@id": "node/11365569829",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Paglaum",
+        "official_name": "Purok Paglaum",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8120045,
+          7.4359938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569830",
+      "properties": {
+        "@id": "node/11365569830",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Macopa",
+        "official_name": "Purok Macopa",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8098641,
+          7.4243124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11365569831",
+      "properties": {
+        "@id": "node/11365569831",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Pinya",
+        "official_name": "Purok Pinya",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8107211,
+          7.4254867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369751458",
+      "properties": {
+        "@id": "node/11369751458",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Agustin",
+        "is_in:city": "Tagum",
+        "name": "Ilang-Ilang",
+        "official_name": "Purok Ilang-Ilang",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8318529,
+          7.4911807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369751459",
+      "properties": {
+        "@id": "node/11369751459",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Agustin",
+        "is_in:city": "Tagum",
+        "name": "Gumamela",
+        "official_name": "Purok Gumamela",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8282614,
+          7.4953638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369784914",
+      "properties": {
+        "@id": "node/11369784914",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magdum",
+        "is_in:city": "Tagum",
+        "name": "Purok 7",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8293396,
+          7.4592518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369786268",
+      "properties": {
+        "@id": "node/11369786268",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Purok 2-B",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8068573,
+          7.4779265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369788662",
+      "properties": {
+        "@id": "node/11369788662",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Kalubiran",
+        "official_name": "Purok Kalubiran",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7809539,
+          7.4798027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369790533",
+      "properties": {
+        "@id": "node/11369790533",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Tadena",
+        "official_name": "Purok Tadena",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7973891,
+          7.4598608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369793283",
+      "properties": {
+        "@id": "node/11369793283",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Briz District",
+        "name": "Melendres",
+        "official_name": "Purok Melendres",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8130439,
+          7.4508344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369803172",
+      "properties": {
+        "@id": "node/11369803172",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Pine Tree",
+        "official_name": "Purok Pine Tree",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.817491,
+          7.4579712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369803472",
+      "properties": {
+        "@id": "node/11369803472",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magdum",
+        "is_in:city": "Tagum",
+        "name": "Purok 4",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8363777,
+          7.4699203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369803473",
+      "properties": {
+        "@id": "node/11369803473",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magdum",
+        "is_in:city": "Tagum",
+        "name": "Purok 8-C",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8171959,
+          7.4625296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369804066",
+      "properties": {
+        "@id": "node/11369804066",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Tipaz",
+        "name": "Maharlika",
+        "official_name": "Purok Maharlika",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8265394,
+          7.45022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369804067",
+      "properties": {
+        "@id": "node/11369804067",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Tipaz",
+        "name": "Popular",
+        "official_name": "Purok Popular",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8252781,
+          7.4508556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369804068",
+      "properties": {
+        "@id": "node/11369804068",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Tipaz",
+        "name": "Durian",
+        "official_name": "Purok Durian",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.827623,
+          7.4515338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369809369",
+      "properties": {
+        "@id": "node/11369809369",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Purok 5-A",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81457,
+          7.4835936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11546929128",
+      "properties": {
+        "@id": "node/11546929128",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 10;Purok Lopez Compound",
+        "is_in:barangay": "La Filipina",
+        "is_in:city": "Tagum",
+        "name": "Lopez Compound",
+        "official_name": "Purok 10 Lopez Compound",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.798867,
+          7.4666186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697529493",
+      "properties": {
+        "@id": "node/11697529493",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Isidro",
+        "is_in:city": "Tagum",
+        "name": "Tulay",
+        "official_name": "Purok Tulay",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7803409,
+          7.3956147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697529494",
+      "properties": {
+        "@id": "node/11697529494",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Isidro",
+        "is_in:city": "Tagum",
+        "name": "Poblacion",
+        "official_name": "Purok Poblacion",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7856325,
+          7.3948388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697529495",
+      "properties": {
+        "@id": "node/11697529495",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Isidro",
+        "is_in:city": "Tagum",
+        "name": "Panitan",
+        "official_name": "Purok Panitan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.784901,
+          7.3925564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697529496",
+      "properties": {
+        "@id": "node/11697529496",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Isidro",
+        "is_in:city": "Tagum",
+        "name": "Alambre",
+        "official_name": "Purok Alambre",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7889809,
+          7.392674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697529497",
+      "properties": {
+        "@id": "node/11697529497",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Isidro",
+        "is_in:city": "Tagum",
+        "name": "Bang-ngag",
+        "official_name": "Purok Bang-ngag",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7872026,
+          7.3772969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601135",
+      "properties": {
+        "@id": "node/11697601135",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Santan",
+        "official_name": "Purok Santan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7496143,
+          7.3740771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601136",
+      "properties": {
+        "@id": "node/11697601136",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 6",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7743044,
+          7.3403375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601137",
+      "properties": {
+        "@id": "node/11697601137",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 5",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7809625,
+          7.3426228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601138",
+      "properties": {
+        "@id": "node/11697601138",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 4",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7824897,
+          7.3451791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601139",
+      "properties": {
+        "@id": "node/11697601139",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 3",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7786877,
+          7.3477115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601140",
+      "properties": {
+        "@id": "node/11697601140",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 2",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7757044,
+          7.3485831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601141",
+      "properties": {
+        "@id": "node/11697601141",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Liboganon",
+        "is_in:city": "Tagum",
+        "name": "Purok 1",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7690731,
+          7.3573135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697601142",
+      "properties": {
+        "@id": "node/11697601142",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Daisy",
+        "official_name": "Purok Daisy",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7623119,
+          7.3633308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697689256",
+      "properties": {
+        "@id": "node/11697689256",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 4;Purok Mabini",
+        "is_in:barangay": "Canocotan",
+        "is_in:city": "Tagum",
+        "name": "Mabini",
+        "official_name": "Purok 4 Mabini",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.772946,
+          7.4017709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697829385",
+      "properties": {
+        "@id": "node/11697829385",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Bagong Lipunan",
+        "official_name": "Purok Bagong Lipunan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7980411,
+          7.4623809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697829386",
+      "properties": {
+        "@id": "node/11697829386",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Pamulinawin",
+        "official_name": "Purok Pamulinawin",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.804558,
+          7.4545662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697829387",
+      "properties": {
+        "@id": "node/11697829387",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo West",
+        "is_in:city": "Tagum",
+        "name": "Busilak",
+        "official_name": "Purok Busilak",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8044662,
+          7.4517215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697834952",
+      "properties": {
+        "@id": "node/11697834952",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Miguel",
+        "is_in:city": "Tagum",
+        "name": "Purok 9",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7527433,
+          7.439795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697842758",
+      "properties": {
+        "@id": "node/11697842758",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Bautista",
+        "official_name": "Purok Bautista",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7857595,
+          7.4638845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697842759",
+      "properties": {
+        "@id": "node/11697842759",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Durian",
+        "official_name": "Purok Durian",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7955334,
+          7.4677707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697842760",
+      "properties": {
+        "@id": "node/11697842760",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Lemonsito",
+        "official_name": "Purok Lemonsito",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7931857,
+          7.4703393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697878195",
+      "properties": {
+        "@id": "node/11697878195",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "La Union",
+        "name": "Papaya",
+        "official_name": "Purok Papaya",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7725607,
+          7.4549372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11697878196",
+      "properties": {
+        "@id": "node/11697878196",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Lower La Union",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "La Union",
+        "name": "Mangga",
+        "official_name": "Purok Mangga",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7678366,
+          7.4501973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11846693820",
+      "properties": {
+        "@id": "node/11846693820",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Suaybaguio C",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "is_in:quarter": "Suaybaguio",
+        "name": "Purok C",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8130806,
+          7.463842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11846739967",
+      "properties": {
+        "@id": "node/11846739967",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "San Agustin",
+        "is_in:city": "Tagum",
+        "name": "Dancing Lady",
+        "official_name": "Purok Dancing Lady",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8251342,
+          7.4926273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11847001502",
+      "properties": {
+        "@id": "node/11847001502",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 7;Purok Sambag",
+        "is_in:barangay": "New Balamban",
+        "is_in:city": "Tagum",
+        "name": "Sambag",
+        "official_name": "Purok 7 Sambag",
+        "place": "hamlet",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.84138,
+          7.5038359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11847001503",
+      "properties": {
+        "@id": "node/11847001503",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "New Balamban",
+        "is_in:city": "Tagum",
+        "name": "Purok 6",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8453001,
+          7.4949566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11847001504",
+      "properties": {
+        "@id": "node/11847001504",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 3;Purok Nangka",
+        "is_in:barangay": "New Balamban",
+        "is_in:city": "Tagum",
+        "name": "Nangka",
+        "official_name": "Purok 3 Nangka",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8464451,
+          7.4965488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11865332759",
+      "properties": {
+        "@id": "node/11865332759",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Daneco Village;Purok Daneco",
+        "is_in:barangay": "Magugpo East",
+        "is_in:city": "Tagum",
+        "name": "Daneco",
+        "official_name": "Purok Daneco Village",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8201099,
+          7.4527472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11865498360",
+      "properties": {
+        "@id": "node/11865498360",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Sunflower",
+        "official_name": "Purok Sunflower",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7599207,
+          7.3701087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11865528895",
+      "properties": {
+        "@id": "node/11865528895",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Bincungan",
+        "is_in:city": "Tagum",
+        "name": "Talaba",
+        "official_name": "Purok Talaba",
+        "place": "hamlet",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7725132,
+          7.3759043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12704777463",
+      "properties": {
+        "@id": "node/12704777463",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 7;Purok Katipunan",
+        "is_in:barangay": "Madaum",
+        "is_in:city": "Tagum",
+        "name": "Katipunan",
+        "official_name": "Purok 7 Katipunan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8057576,
+          7.3842512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12704777464",
+      "properties": {
+        "@id": "node/12704777464",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Madaum",
+        "is_in:city": "Tagum",
+        "name": "Purok 23",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8078659,
+          7.3839187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12704777465",
+      "properties": {
+        "@id": "node/12704777465",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Madaum",
+        "is_in:city": "Tagum",
+        "name": "Purok 8",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8011416,
+          7.3868832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622347",
+      "properties": {
+        "@id": "node/12960622347",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Purok 2;Purok Santo Niño",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Santo Niño",
+        "official_name": "Purok 2 Santo Niño",
+        "place": "neighbourhood",
+        "postal_code": "8100",
+        "short_name": "Sto. Niño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8005917,
+          7.4865641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622348",
+      "properties": {
+        "@id": "node/12960622348",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Pagkakaisa",
+        "official_name": "Purok Pagkakaisa",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7946667,
+          7.4905212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622349",
+      "properties": {
+        "@id": "node/12960622349",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Humabon",
+        "official_name": "Purok Humabon",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7926859,
+          7.4920849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622350",
+      "properties": {
+        "@id": "node/12960622350",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Mercury",
+        "official_name": "Purok Mercury",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7920569,
+          7.4911914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622351",
+      "properties": {
+        "@id": "node/12960622351",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Bagani",
+        "official_name": "Purok Bagani",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7887229,
+          7.4954808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12960622352",
+      "properties": {
+        "@id": "node/12960622352",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Cuambogan",
+        "is_in:city": "Tagum",
+        "name": "Maduaw",
+        "official_name": "Purok Maduaw",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7848901,
+          7.5003393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12976391852",
+      "properties": {
+        "@id": "node/12976391852",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Everlasting",
+        "official_name": "Purok Everlasting",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8141644,
+          7.4550322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12976391853",
+      "properties": {
+        "@id": "node/12976391853",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Magugpo North",
+        "is_in:city": "Tagum",
+        "name": "Durian",
+        "official_name": "Purok Durian",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8108544,
+          7.4570819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13535692361",
+      "properties": {
+        "@id": "node/13535692361",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "fixme": "location approximate",
+        "is_in:barangay": "Magugpo South",
+        "is_in:city": "Tagum",
+        "name": "Kapatagan",
+        "official_name": "Purok Kapatagan",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7972604,
+          7.4512812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13601665792",
+      "properties": {
+        "@id": "node/13601665792",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:city": "Tagum",
+        "name": "Sinalikway",
+        "official_name": "Purok Sinalikway",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7762683,
+          7.3971131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13886026269",
+      "properties": {
+        "@id": "node/13886026269",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Canocotan",
+        "is_in:city": "Tagum",
+        "name": "Buli Compound",
+        "official_name": "Purok Rizal",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7870084,
+          7.4097475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13918712703",
+      "properties": {
+        "@id": "node/13918712703",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Mahogany",
+        "official_name": "Purok Mahogany",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8056061,
+          7.436398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13926661656",
+      "properties": {
+        "@id": "node/13926661656",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "alt_name": "Ursua Village",
+        "is_in:barangay": "Visayan Village",
+        "is_in:city": "Tagum",
+        "name": "Ursua",
+        "official_name": "Purok Ursua",
+        "place": "neighbourhood",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8069096,
+          7.4379552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13984803798",
+      "properties": {
+        "@id": "node/13984803798",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:barangay": "Mankilam",
+        "is_in:city": "Tagum",
+        "name": "Capitol",
+        "official_name": "Purok Capitol",
+        "place": "quarter",
+        "postal_code": "8100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7825421,
+          7.4558737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14056644105",
+      "properties": {
+        "@id": "node/14056644105",
+        "admin_level": "11",
+        "admin_type:PH": "purok",
+        "is_in:quarter": "Curvada",
+        "name": "Purok 8",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.8204937,
+          7.4623368
+        ]
+      }
+    }
+  ]
+}
