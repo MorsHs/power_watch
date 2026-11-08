@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:power_watch/features/HomePage/widgets/Alertcontainer.dart';
+import 'package:power_watch/features/HomePage/widgets/AlertcontainerHome.dart';
 import 'package:power_watch/features/HomePage/widgets/CardAnnoucement.dart';
 import 'package:power_watch/features/HomePage/widgets/ReusableCards.dart';
 
@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
               ),
               TextButton(
-                onPressed: () => null,
+                onPressed: () {},
                 child: Text(
                   'See All',
                   style: TextStyle(

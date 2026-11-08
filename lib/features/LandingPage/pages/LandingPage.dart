@@ -108,7 +108,7 @@ class _LandingPageState extends State<LandingPage> {
                     ),
                   ),
                 ),
-                SizedBox(height: 10,)
+                SizedBox(height: 10),
               ],
             ),
           ),
@@ -121,8 +121,21 @@ class _LandingPageState extends State<LandingPage> {
           backgroundColor: AppColors.background,
         );
 
+      case 2:
+        return CurvedAppBar(
+          shape: CurvedAppBarShape.invertedRounded,
+          curveRadius: 25,
+          title: Text('Alerts'),
+          backgroundColor: AppColors.background,
+          leading: Icon(
+            Icons.notifications_outlined,
+            color: AppColors.whiteText,
+          ),
+        );
+
       default:
         AppBar();
     }
+    return null;
   }
 }

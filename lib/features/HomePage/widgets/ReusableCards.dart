@@ -35,7 +35,7 @@ class Reusablecards extends StatelessWidget {
                   padding: EdgeInsets.all(8 * scale),
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    color: this.color,
+                    color: color,
                   ),
                   child: Icon(icon, color: Colors.white,),
                 ),
@@ -47,7 +47,7 @@ class Reusablecards extends StatelessWidget {
                 ),
                 FittedBox(
                   child: Text(
-                    '${this.count} / ${this.total}',
+                    '$count / $total',
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                   ),
                 ),

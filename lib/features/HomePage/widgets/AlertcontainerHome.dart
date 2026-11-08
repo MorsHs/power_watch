@@ -5,7 +5,7 @@ class Alertcard extends StatelessWidget {
 
   final String title;
   final String location;
-  final String date; //TODO convert to datetime
+  final String date; //convert to datetime
   final Color color;
   final IconData icon;
 
